@@ -1,4 +1,4 @@
-# Rauane de Carvalho 🍅
+# Rauane de Carvalho 
 
 🎓 Undergraduate Student in `Computer Science`;
 
